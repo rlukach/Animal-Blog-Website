@@ -1,4 +1,3 @@
-# Animal-Blog-Website
 <!DOCTYPE html>
 
 <style>
@@ -53,7 +52,6 @@ p a {
     <thead>
         <tr>
            <th></th>
-           <th></th>
         </tr>
     </thead>
 <ul>
@@ -64,8 +62,8 @@ p a {
 <tbody>
     <tr>
     <td> 
-  <a target="_blank" href="dog1.png.png">
-    <img src="dog1.png.png" alt="dog1" width="600" height="400">
+  <a target="_blank" href="https://www.pexels.com/photo/two-yellow-labrador-retriever-puppies-1108099/">
+    <img src="dog.png.png" alt="dog1" width="600" height="400">
   </a>
     <td></td>
     </tr>
@@ -74,3 +72,13 @@ p a {
 <button type="button">Click Here</button>
 </table>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>About</title>
+    </head>
+    <h1>Information on Dogs</h1>
+    <p>Dogs are loving animals that are great with families. They turn into your bestfriend that you look forward to seeing everyday. They are great with kids and they are especially gentle with younger kids and newborns. Dogs are very aware of their surroundings so they tend to adapt to the environment pretty quickly. </p>
+</html>
+
