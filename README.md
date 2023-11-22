@@ -73,13 +73,14 @@ p a {
 <button type="button">Click Here</button>
 </table>
 </html>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>About</title>
+        <h1>About</h1>
     </head>
-    <h1>Information on Dogs</h1>
+    <h2>Information on Dogs</h2>
     <p>Dogs are loving animals that are great with families. They turn into your bestfriend that you look forward to seeing everyday. They are great with kids and they are especially gentle with younger kids and newborns. Dogs are very aware of their surroundings so they tend to adapt to the environment pretty quickly. </p>
 </html>
 
