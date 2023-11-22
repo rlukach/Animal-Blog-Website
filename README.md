@@ -88,7 +88,7 @@ p a {
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>Care</title>
+        <h1>Care</h1>
     </head>
     <h1>How to Care for a Dog </h1>
     <body>
