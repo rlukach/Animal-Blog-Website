@@ -91,7 +91,8 @@ p a {
         <title>Care</title>
     </head>
     <h1>How to Care for a Dog </h1>
-    <body>Tips to care for a dog
+    <body>
+        <h3>Tips to care for a dog</h3>
        <ol>
           <li>Provide a protected and clean living environment for your dog</li>
           <li>Always keep fresh water available</li>
